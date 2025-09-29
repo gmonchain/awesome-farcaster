@@ -86,7 +86,10 @@
   - Channel token tracker - [Web](https://www.terminal.co/)
 - [Anser](https://anser.social)
   - Brand management suite - [Web](https://anser.social)
-
+- [FarRank](https://farcaster.xyz/miniapps/Cd4WmQSF2Xct/farrank)
+  - Check your Farcaster stats via Neynar API - [Web](https://www.farrank.info/)
+- [Farcoins](https://farcaster.xyz/miniapps/bK7NjGAIGn_T/farcoins)
+  - Coin Your Farcaster Profile via Zora - [Web](https://farcoins.xyz/)
 
 ## Tools
 
